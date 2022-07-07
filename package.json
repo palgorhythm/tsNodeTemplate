@@ -8,6 +8,7 @@
     "license": "MIT",
     "scripts": {
         "format": "prettier . --write",
+        "init": "yarn install",
         "script": "tsc && node"
     },
     "dependencies": {
